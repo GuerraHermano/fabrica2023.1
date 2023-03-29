@@ -1,0 +1,31 @@
+1) 	Gráfico 1 - [ ] Certo / [X] Errado
+   	Gráfico 2 - [X] Certo / [ ] Errado
+   	Gráfico 3 - [ ] Certo / [X] Errado
+   	Gráfico 4 - [X] Certo / [ ] Errado
+   	Gráfico 5 - [X] Certo / [ ] Errado
+   	Gráfico 6 - [X] Certo / [ ] Errado
+
+2) 	Análise do gráfico 2: 	Esse gráfico é do estilo "gráfico de linhas", ou seja, ele tem como objetivo analisar num único objeto durante um determinado período de tempo (dias, semanas, meses, anos etc).
+Observando mais atentamente ao gráfico, é perceptível que os meses de agosto e outubro, foram os períodos de crise; durante os seis meses de trabalho, a empresa arrecadou cerca de 8.500,00 reais (O gráfico
+encontra-se em milhares); a média da empresa é de 1.416,67 reais, um pouco abaixo do faturamento mais constante, que foi 1.500,00 reais (ocorreu em julho, setembro e novembro); o pico da empresa foi no mês
+de dezembro, com o fraturamento de 1.750,00 reais, 250,00 reais acima da mediana dos meses e 333,67 reais a mais que a mèdia; e o mês com o faturamento mais baixo foi o mês de outubro, faturando apenas 
+1.050,00 reais, 450,00 reais abaxio da mediana dos meses e 366,67 reais a menos que a média.
+
+	Análise do gráfico 4:   Esse gráfico é do estilo "gráfico de colunas", ou seja, ele tem como objetivo analisar inúmeros objetos durante um determinado período de tempo (dias, semanas, meses, anos e etc).
+Observando mais atentamente ao gráfico, é perceptível de que se trata da quantidade de sintomas específicos que uma determinada doença pode causar; podemos ver que o sintoma mais comum da doença é a dor de 
+cabeça e o menos comum é a falta de apetite, analisando os sintomas pode deduzir que se trata de uma infecção, pois apresenta a febre como o segundo sintoma mais comum, com 40% dos indivíduos que contraem 
+a doença adquirem esse sintoma.
+
+	Análise do gráfico 5:	Esse gráfico é do estilo "gráfico de linhas", assemelha-se bastante ao gráfico dois (2). Observando mais atentamente ao gráfico, é perceptível que os meses de agosto e outubro,
+ foram os períodos de crise; durante os seis meses de trabalho, a empresa arrecadou cerca de 8.500,00 reais (O gráficoencontra-se em milhares); a média da empresa é de 1.416,67 reais, um pouco abaixo do faturamento 
+mais constante, que foi 1.500,00 reais (ocorreu em julho, setembro e novembro); o pico da empresa foi no mês de dezembro, com o fraturamento de 1.750,00 reais, 250,00 reais acima da mediana dos meses e 333,67 reais a mais que a mèdia; 
+e o mês com o faturamento mais baixo foi o mês de outubro, faturando apenas 1.050,00 reais, 450,00 reais abaxio da mediana dos meses e 366,67 reais a menos que a média.
+(O gráfico cinco (5) têm duas diferenças do gráfico dois (2); o gráfico dois começa no seu eixo "Y" no número "1000" e o gráfico cinco começa seu eixo "Y" no número "0"; a segunda diferença é que no gráfico dois
+após a contagem começar do número "1000" a da linha que passa, vai crescendo de "100" em "100", até finalizar o eixo no número "2000", o gráfico cinco, porém começa no "0" e vai ao longo do eixo aumentando 
+de "200" em "200" até chegar no número "2000").
+
+	Análise do gráfico 6:	Esse gráfico é do estilo "gráfico de colunas", ou seja, tem como objetivo analisar inúmeros objetos durante um determinado período de tempo. Observando mais atentamente ao
+gráfico, é perceptível de que se trata de uma loja que vendem objetos domésticos (com exceção dos carros). Diante disso, pode compreender que a televisão foi o bem mais vendido durante os seis meses, com
+o total de vendas de 8 (1,33 por mês); e o objeto menos vendido foi a máquina de lavar roupa, com o total de zero (0) vendas no período de seis meses; a geladeira e a máquina de valar louças tiveram a 
+mesma quantidade de vendas, com duas unidades durante os seis meses (0,33 por mês); foram vendidos três fogões durante o período de seis meses (0,5 por mês); e por último, o item mais destoante da lista de
+vendas, o carro, que teve 5 unidades vendidas durante os seis meses (0,83 por mês).
